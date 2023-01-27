@@ -1,11 +1,50 @@
 #title {
     background-color: #ff4c68;
 }
+
 .container {
     padding: 3% 15%;
 }
+
 #title-heading {
     font-family: "Montserrat";
     font-size: 3rem;
-    line-height: 1.5;
+    line-height: 2.0;
+    color: white;
+}
+h4 {
+    font-family: "Montserrat";
+    font-size: 1.5rem;
+}
+.phoneImage {
+    width: 60%;
+    transform: rotate(25deg);
+}
+
+.navbar {
+    margin-bottom: 2%;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-weight: bold;
+}
+
+#features {
+    padding: 7% 12%;
+}
+.feature-box {
+    text-align: center;
+    padding: 3%;
+}
+#features p {
+    font-weight: bold;
+    
+}
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+.icon:hover {
+    color: #ff4c68;
 }
