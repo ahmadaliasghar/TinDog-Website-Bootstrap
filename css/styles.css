@@ -45,7 +45,7 @@ h4 {
     text-align: center;
     padding: 3%;
 }
-#features p {
+p {
     font-weight: bold;
     
 }
@@ -78,4 +78,11 @@ h4 {
 .press-logo {
     width: 15%;
     margin: 20px 20px 50px;
+}
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+.pricing-col {
+    padding: 3% 2%;
 }
